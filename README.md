@@ -10,7 +10,7 @@ I am currently double majoring in **Computer Science** (**AI/ML** track) and **E
 - Research interests: AI legislation, AI Safety, Digital Humanities
 
 ## What I'm up to:
-- Working as a Research Assistant at <a href="[https://youtu.be/WnjiCtlHXi0](https://cntr.brown.edu/)">, developing a scorecard to evaluate U.S. AI bills
+- Working as a Research Assistant at <a href="[https://youtu.be/WnjiCtlHXi0](https://cntr.brown.edu/)"> CNTR </a>, developing a scorecard to evaluate U.S. AI bills
 - Learning UX/UI design and Computer Vision :book: 
 - Building my own website :computer:
 
