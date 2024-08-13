@@ -1,16 +1,20 @@
-
-
 # Hi! I'm Nora :)
 
-I am a Computer Science-English major at Brown Univeristy interested in **software engineering**, **product management**, and **prompt engineering**.
+I am currently double majoring in **Computer Science** (in the **AI/ML** track) and **English Literature** at Brown University. 
 
+## About me: 
+
+- Career interests: **software engineering**, **product management**, **prompt engineering**
+- Programming: `Python`, `HTML`, `Java`, `SQL`, `Javascript`, `C`, `C++`
+- Most often used libraries: `NumPY`, `Pandas`, `TensorFlow`, `PyTorch`
+- Research interests: AI legislation, AI Safety, Digital Humanities
 
 ## What I'm up to:
-- Working as a Research Assistant at <a href="[https://youtu.be/WnjiCtlHXi0](https://cntr.brown.edu/)">, developing a scorecard to evaluate AI legislation in the U.S. 
+- Working as a Research Assistant at <a href="[https://youtu.be/WnjiCtlHXi0](https://cntr.brown.edu/)">, developing a scorecard to evaluate U.S. AI bills
 - Learning UX/UI design and Computer Vision :book: 
 - Building my own website :computer:
 
-## Connect with me:
+## Connect with me!:
 - :mailbox: yinuo_cai@brown.edu
 - :paperclip: <a href="https://www.linkedin.com/in/nora-y-cai/"> LinkedIn </a>
 
@@ -27,4 +31,29 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Currently an Infra. Software Engineer at [Clever](https://www.clever.com/)
+
+[**View my resume**](https://jakegut.com/resume.pdf)
+
+[![mastodon](https://img.shields.io/badge/-@jakegut@hachyderm.io-161616?style=flat-square&labelColor=161616&logo=mastodon&logoColor=white&color=161616)]([https://twitter.com/gut_jake](https://hachyderm.io/@jakegut))  
+[![linkedin](https://img.shields.io/badge/-@jakegut-161616?style=flat-square&labelColor=161616&logo=LinkedIn&logoColor=white&color=161616)](https://www.linkedin.com/in/jakegut/)  
+![discord](https://img.shields.io/badge/-@jakegut%237778-161616?style=flat-square&labelColor=161616&logo=Discord&logoColor=white&color=161616)
+
+## My Experience
+
+**Software Engineer** at [_Clever_](https://www.clever.com/) doing Infrastructure stuff in Go.
+
+**Software Engineer** at [_Rivet_](https://rivethealth.com) working with Node.js, Angular, and Bazel.
+
+**Software Developer** at _TAMU Engineering_ working on [gitlytics](https://github.com/jakeryang/gitlytics) with [Dr. Dilma Da Silva](https://engineering.tamu.edu/cse/profiles/da-silva-dilma.html); read more about my experience [here](https://jakeryang.github.io/).
+
+**Artifical Intelligence Research Assistant** at _Southwestern University_ working on [Generative Graph Grammar Dungeons with GAN Rooms for the Legend of Zelda](https://people.southwestern.edu/~schrum2/SCOPE/zelda-graphgan.php) with [Dr. Jacob Schrum](https://people.southwestern.edu/~schrum2/); Relevant papers: [ 1 ](https://doi.org/10.1109/CEC48606.2020.9185631), [ 2 ](https://dl.acm.org/doi/abs/10.1145/3377930.3389821)
+
+## My Projects
+
+[Southwestern University Tutor App](https://github.com/Southwestern-Higher-Learning/TutorBackEnd) - Mobile app to help connect students with tutors and schedule times with them. (_Python, FastAPI, React, PostgreSQL_)
+
+[Simple Paintball](https://github.com/jakegut/SimplePaintball) - Spigot plugin that adds a Paintball mini-game to Minecraft servers. (_Java, TravisCI, Maven, Spigot_)
+
 -->
