@@ -1,6 +1,6 @@
 # Hi! I'm Nora :)
 
-I am currently double majoring in **Computer Science** (in the **AI/ML** track) and **English Literature** at Brown University. 
+I am currently double majoring in **Computer Science** (**AI/ML** track) and **English Literature** at Brown University. 
 
 ## About me: 
 
