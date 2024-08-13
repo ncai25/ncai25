@@ -4,15 +4,15 @@ I am currently double majoring in **Computer Science** (**AI/ML** track) and **E
 
 ## About me: 
 
-- Career interests: **software engineering**, **product management**, **prompt engineering**
+- Career interests: **Software Engineering**, **Product Management**, **Prompt Engineering**
 - Programming: `Python`, `HTML`, `Java`, `SQL`, `Javascript`, `C`, `C++`
 - Most often used libraries: `NumPY`, `Pandas`, `TensorFlow`, `PyTorch`
-- Research interests: AI legislation, AI Safety, Digital Humanities
+- Research interests: AI legislation, AI Safety, Digital Humanities :book: 
 
 ## What I'm up to:
-- Working as a Research Assistant at <a href="[https://youtu.be/WnjiCtlHXi0](https://cntr.brown.edu/)"> CNTR </a>, developing a scorecard to evaluate U.S. AI bills
-- Learning UX/UI design and Computer Vision :book: 
-- Building my own website :computer:
+- Working as a URA at <a href="https://cntr.brown.edu/"> CNTR</a> to develo a scorecard evaluating AI bills 
+- Learning UX/UI design and Computer Vision and building my own website :computer:
+- Café hunting and quiting caffeine
 
 ## Connect with me!:
 - :mailbox: yinuo_cai@brown.edu
