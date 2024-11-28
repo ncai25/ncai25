@@ -13,12 +13,11 @@ I am currently double majoring in **Computer Science** (**AI/ML** track) and **E
 - Working as a URA at <a href="https://cntr.brown.edu/"> CNTR</a> to develo a scorecard evaluating AI bills 
 - Building a <a href="https://smart-chatbot-dkz564vib-ncai25s-projects.vercel.app/"> chatbot</a> for Innovation AI, a Startup Compay based in San Jose, CA 
 - Incoming summer swe intern at <a href="https://stripe.com/"> Stripe</a> 
-- Learning UX/UI design and Computer Vision and building my own website 
 - Café hunting but quiting caffeine; Reading Woolf
 
 ## Connect with me!:
-- :mailbox: nora.y.cai@gmail.com
 - :paperclip: <a href="https://www.linkedin.com/in/nora-y-cai/"> LinkedIn </a>
+- :mailbox: nora.y.cai@gmail.com
 
 <!--
 **ncai25/ncai25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
