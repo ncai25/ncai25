@@ -13,7 +13,7 @@ I am currently double majoring in **Computer Science** (**AI/ML** track) and **E
 - Working as a URA at <a href="https://cntr.brown.edu/"> CNTR</a> to develo a scorecard evaluating AI bills 
 - Building a <a href="https://smart-chatbot-innovation-ai.vercel.app/"> chatbot</a> for Innovation AI, a Startup company based in San Jose, CA 
 - Incoming summer swe intern at <a href="https://stripe.com/"> Stripe</a> 
-- Café hunting but quiting caffeine; Reading Woolf
+- Cafe hunting and quiting caffeine; Reading
 
 ## Connect with me!:
 - :paperclip: <a href="https://www.linkedin.com/in/nora-y-cai/"> LinkedIn </a>
