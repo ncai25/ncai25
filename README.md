@@ -15,7 +15,7 @@ I am currently double majoring in **Computer Science** (**AI/ML** track) and **E
 - Incoming summer swe intern at <a href="https://stripe.com/"> Stripe</a> 
 - Cafe hunting and quiting caffeine; reading
 
-## Connect with me!:
+## Connect with me!
 - :paperclip: <a href="https://www.linkedin.com/in/nora-y-cai/"> LinkedIn </a>
 - :mailbox: nora.y.cai@gmail.com
 
