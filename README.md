@@ -1,6 +1,6 @@
 # Hi! I'm Nora :)
 
-I'm a **Computer Science** and **English** double major at Brown University.
+I'm currently a **Computer Science** and **English** double major at Brown University.
 
 ## About me: 
 
