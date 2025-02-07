@@ -7,7 +7,7 @@ I'm currently a **Computer Science** and **English** double major at Brown Unive
 - Career interests: **Software Engineering**, **Product Management**
 - Programming: `Python`, `Java`, `SQL`, `Javascript`, `C`, `C++`, `HTML`
 - Most often used libraries: `TensorFlow`, `PyTorch`
-- Research interests: AI legislation, AI Safety, NLP, Digital Humanities 
+- Research interests: AI legislation, AI Safety, NLP, Interpretablity
 
 ## What I'm up to:
 - Working as a URA at <a href="https://cntr.brown.edu/"> CNTR</a> to develop a scorecard evaluating AI bills 
