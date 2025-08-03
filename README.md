@@ -10,9 +10,8 @@ I'm currently a **Computer Science** and **English** double major at Brown Unive
 - Research interests: NLP, AI Safety, Interpretablity
 
 ## What I'm up to:
-- Working as a URA at <a href="https://cntr.brown.edu/"> CNTR</a> to develop a scorecard evaluating AI bills 
-- Building a <a href="https://smart-chatbot-innovation-ai.vercel.app/"> chatbot</a> for Innovation AI, a Startup company based in San Jose, CA 
-- Incoming summer SWE intern at <a href="https://stripe.com/"> Stripe</a> 
+- Working as a RA for an NLP project
+- SWE intern at <a href="https://stripe.com/"> Stripe</a> 
 - Cafe hunting and quiting caffeine; reading and trying to write more
 
 ## Connect with me!
