@@ -12,7 +12,7 @@ I'm currently a **Computer Science** and **English** double major at Brown Unive
 ## What I'm up to:
 - Working as a RA for an NLP project
 - SWE intern at <a href="https://stripe.com/"> Stripe</a> 
-- Cafe hunting and quiting caffeine; reading and trying to write more
+- Cafe hunting and quiting caffeine; reading 
 
 ## Connect with me!
 - :paperclip: <a href="https://www.linkedin.com/in/nora-y-cai/"> LinkedIn </a>
