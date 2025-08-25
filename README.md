@@ -1,10 +1,9 @@
 # Hi! I'm Nora :)
 
 ## About me: 
-- Graduated with a CS-English double degree from Brown University
-- Incoming SWE at <a href="https://stripe.com/"> Stripe</a> in NYC
-- Research interests: NLP, AI Safety, Interpretablity
-- Things I like: books, museums, theatre, city walks, gym
+- CS-English @ Brown → SWE @ Stripe NYC
+- Research: NLP, AI Safety, mech interp
+- Interests: books, museums, theatre, city walks, gym
 
 ## Connect with me!
 - :paperclip: <a href="https://www.linkedin.com/in/nora-y-cai/"> LinkedIn </a>
