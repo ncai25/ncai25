@@ -1,18 +1,10 @@
 # Hi! I'm Nora :)
 
-I'm currently a **Computer Science** and **English** double major at Brown University.
-
 ## About me: 
-
-- Career interests: **Software Engineering**, **Research**
-- Programming: `Python`, `Java`, `SQL`, `Javascript`, `C`, `C++`, `HTML`
-- Most often used libraries: `TensorFlow`, `PyTorch`
+- Graduated with a CS-English double degree from Brown University
+- Incoming SWE at <a href="https://stripe.com/"> Stripe</a> in NYC
 - Research interests: NLP, AI Safety, Interpretablity
-
-## What I'm up to:
-- Working as a RA for an NLP project
-- SWE intern at <a href="https://stripe.com/"> Stripe</a> 
-- Cafe hunting and quiting caffeine; reading 
+- Things I like: books, museums, theatre, city walks, gym
 
 ## Connect with me!
 - :paperclip: <a href="https://www.linkedin.com/in/nora-y-cai/"> LinkedIn </a>
