@@ -1,7 +1,7 @@
 # Hi! I'm Nora :)
 
 ## About me: 
-- CS-English @ Brown → SWE @ Stripe NYC
+- CS-English @ Brown -> SWE @ Stripe NYC
 - Research: NLP, AI Safety, mech interp
 - Interests: books, museums, theatre, city walks, gym
 
